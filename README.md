@@ -6,8 +6,6 @@ username and password must be same line.
 
 first username match with first password.
 
-
-
 Examples
 
 for username.txt
@@ -16,9 +14,6 @@ anyone
 anyone1@gmail.com
 anyone2
 anyone3@yahoo.com
-
-
-
 
 for password.txt
 
